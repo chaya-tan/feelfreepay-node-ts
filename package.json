@@ -1,13 +1,13 @@
 {
-  "name": "gbprimepay",
-  "version": "0.3.0",
-  "description": "Unofficial Node.js Library for GB Prime Pay",
-  "repository": "https://github.com/maythiwat/node-gbprimepay",
-  "author": "Maythiwat Chomchuen <maythiwat.chom@gmail.com>",
+  "name": "feelfreepay",
+  "version": "0.1.0",
+  "description": "Unofficial Node.js Library for FeelFreePay",
+  "repository": "https://github.com/chaya-tan/feelfreepay-node-ts",
+  "author": "Chayatan Angkasuvan <chayatan.ang@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "gbpay",
-    "gbprimepay",
+    "feelfree",
+    "feelfreepay",
     "payment-gateway",
     "promptpay",
     "thai-qr-payment"

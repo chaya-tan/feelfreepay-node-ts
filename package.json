@@ -2,7 +2,7 @@
   "name": "feelfreepay",
   "version": "0.1.0",
   "description": "Unofficial Node.js Library for FeelFreePay",
-  "repository": "https://github.com/chaya-tan/feelfreepay-node-ts",
+  "repository": "git+https://github.com/chaya-tan/feelfreepay-node-ts.git",
   "author": "Chayatan Angkasuvan <chayatan.ang@gmail.com>",
   "license": "MIT",
   "keywords": [

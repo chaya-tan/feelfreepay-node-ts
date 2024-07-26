@@ -1,4 +1,4 @@
-# node-gbprimepay
+# FeelFreePay Node ts
 
 Unofficial Node.js Library for FeelFreePay with helper included to seamlessly integrate into your backend
 

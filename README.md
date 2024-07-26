@@ -7,6 +7,9 @@ Forked from `node-gbprimepay` and changed to the new endpoint
 ## Note
 
 Still WIP, but contributions are welcome!
+I only use QR Cash in my work, so other channel still UNTESTED
+
+if you face any bug, feel free to make a PR!
 
 ## Features
 

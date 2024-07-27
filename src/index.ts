@@ -1,13 +1,12 @@
-export { GBPrimePay } from './lib/GBPrimePay'
-
+import { FeelFreePay } from "./lib/FeelFreePay";
 export {
-  GBPrimePayBankCodes as BankCodes,
-  GBPrimePayChannels as Channels,
-  GBPrimePayEnv as Env,
-  GBPrimePayApiUrl,
-  GBPrimePayOptions,
-  GBPrimePayResponse
-} from './lib/constants'
+  FeelFreePayBankCodes as BankCodes,
+  FeelFreePayChannels as Channels,
+  FeelFreePayEnv as Env,
+  FeelFreePayApiUrl,
+  FeelFreePayOptions,
+  FeelFreePayResponse,
+} from "./lib/constants";
 
-import { GBPrimePay } from './lib/GBPrimePay'
-export default GBPrimePay
+export default FeelFreePay;
+export { FeelFreePay };

@@ -98,7 +98,7 @@ interface FeelFreePayQrCashResponse {
   referenceNo: string;
   qrcode: string;
   resultCode: string;
-  gbpReferenceNo: string;
+  ffpReferenceNo: string;
   resultMessage: string;
 }
 
